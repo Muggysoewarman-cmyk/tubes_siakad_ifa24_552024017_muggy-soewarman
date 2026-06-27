@@ -52,7 +52,7 @@ SIAKAD adalah aplikasi web berbasis **Laravel** yang mensimulasikan Sistem Infor
 | Role | Email | Password |
 |------|-------|----------|
 | Admin | admin@siakad.com | password |
-| Mahasiswa | arif@siakad.com | password |
+
 
 ---
 
