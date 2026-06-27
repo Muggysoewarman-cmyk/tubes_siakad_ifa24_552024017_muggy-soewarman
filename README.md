@@ -45,20 +45,7 @@ SIAKAD adalah aplikasi web berbasis **Laravel** yang mensimulasikan Sistem Infor
 
 ---
 
-## Cara Instalasi
 
-```bash
-git clone https://github.com/muhammadarifwibiseno-sketch/tubes-siakad-ifa2024-5520124015-M.Lintang-Sedayu-Arif.git
-cd tubes-siakad-ifa2024-5520124015-M.Lintang-Sedayu-Arif
-composer install
-cp .env.example .env
-php artisan key:generate
-# Setting database di .env
-php artisan migrate --seed
-php artisan serve
-```
-
----
 
 ## Akun Default
 
