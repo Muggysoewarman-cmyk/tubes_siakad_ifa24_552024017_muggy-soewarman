@@ -1,7 +1,4 @@
-# SIAKAD — Sistem Informasi Akademik Sederhana
-
-# LINK HOSTING #
-https://lintang.ifalgorithm24.web.id/
+# SIAKAD — Sistem Informasi Akademik Sederhan
 
 
 
@@ -9,9 +6,9 @@ https://lintang.ifalgorithm24.web.id/
 
 
 > Tugas Besar Mata Kuliah Web II   
-> **Nama:** M. Lintang Sedayu Arif  
-> **NPM:** 5520124015  
-> **Kelas:** IF-A  
+> **Nama:muggy soewarman 
+> **NPM: 5520124017 
+> **Kelas: IF-A  
 
 ---
 
@@ -21,21 +18,6 @@ SIAKAD adalah aplikasi web berbasis **Laravel** yang mensimulasikan Sistem Infor
 
 ---
 
-## Fitur Utama
-
-| Fitur | Admin | Mahasiswa |
-|-------|-------|-----------|
-| Login / Logout | ✅ | ✅ |
-| Kelola Data Dosen | ✅ | ❌ |
-| Kelola Data Mahasiswa | ✅ | ❌ |
-| Kelola Mata Kuliah | ✅ | ❌ |
-| Kelola Jadwal | ✅ | ❌ |
-| Lihat Semua KRS | ✅ | ❌ |
-| Ambil / Drop KRS | ❌ | ✅ |
-| Lihat Jadwal Kuliah | ❌ | ✅ |
-| Dashboard Statistik | ✅ | ✅ |
-
----
 
 ## Penjelasan Halaman
 
